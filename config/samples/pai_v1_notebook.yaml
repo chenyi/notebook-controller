@@ -1,0 +1,6 @@
+apiVersion: pai.alibaba.com/v1
+kind: Notebook
+metadata:
+  name: notebook-sample
+spec:
+  # TODO(user): Add fields here
