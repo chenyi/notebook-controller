@@ -1,0 +1,6 @@
+domain: notebook.alibaba.com
+layout:
+- go.kubebuilder.io/v3
+projectName: notebook
+repo: github.com/chenyi/notebook-controller
+version: "3"
